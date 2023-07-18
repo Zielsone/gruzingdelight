@@ -1,9 +1,9 @@
-# This is GRUZING DELIGHT
+# GRUZING DELIGHT
 
-## My first website that I created myself. 
+## My first website I made. 
 
-This site is in the form of a blog and talks about my passion which is cheap drifting. 
-In it, I describe modifications to my car, and reports from trainings, events and car spots.
-By learning programming languages ​​and gaining knowledge about webmastering, I update and develop this project.
+This website is in the form of a blog, it talks about my passion which is drifting.
+The site is being developed by me, adding new posts, about repairs and modifications to my car, coverage of training and local drifting events.
+I try to frequently update and improve this site with newly learned issues in web programming.
 
-### Have fun exploring [Gruzing Delight](https://zielsone.github.io/gruzingdelight/). 
+### Enjoy exploring  [Gruzing Delight](https://zielsone.github.io/gruzingdelight/). 
